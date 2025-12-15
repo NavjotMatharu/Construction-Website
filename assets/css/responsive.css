@@ -24,6 +24,10 @@
 
  
 }
+@media (max-width: 430px) {
+
+ 
+}
  
 /* Large Mobile :480px. */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
